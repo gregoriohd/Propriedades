@@ -1,4 +1,4 @@
-# ManualGit
+# App Propriedades de Persistência
 _Pequeno app para aplicar persistencia de dados usando Properties._
 
 ## Properties
