@@ -6,5 +6,5 @@ _Pequeno app para aplicar persistencia de dados usando Properties._
 
 ##### [javadoc(Properties)](https://docs.oracle.com/javase/7/docs/api/java/util/Properties.html)
 
-
+###### --------------------------------------------------------
 > O seu foco é a sua realidade.
